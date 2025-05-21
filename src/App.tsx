@@ -1,24 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import { useState } from "react";
+import "./App.css";
+// import Card from "./components/Card";
+// import { pokemon } from "./data";
+import Header from "./pages";
 
 function App() {
+  // const [hide, setHide] = useState(false);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+      <div className="bg-[url('./images/bg.png')] h-screen bg-cover bg-no-repeat bg-center ">
+        <Header />
+
+        {/* {
+        pokemon.map((item, index) => (
+          <Card key={index} title={item.name}  />
+        ))
+      } 
+ */}
+
+
+        {/* {!hide && <Card title="Pokemon 1" />}
+        <button
+          className="bg-purple-950 text-white w-20 h-10 rounded-lg absolute top-0 left-0"
+          onClick={() => setHide((current) => !current)}
         >
-          Learn React
-        </a>
-      </header>
+          Hide
+        </button>   */}
+      </div>
     </div>
   );
 }
