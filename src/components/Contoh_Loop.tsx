@@ -4,8 +4,8 @@ interface CardProps {
   title: string;
 }
 
-const Card = ({ title }: CardProps) => {
-  
+const Card = (props: CardProps) => {
+
   const [selected, setSelected] = useState(false);
   const [selected2, setSelected2] = useState(false);
 
@@ -20,7 +20,7 @@ const Card = ({ title }: CardProps) => {
   return (
     <div>
       {selected && <p>Selected</p>}
-      <h1>{title}</h1>
+      <h1>{props.title}</h1>
       <p>subtile</p>
       <button onClick={() => setSelected(current => !current)}>tes</button>
     </div>
