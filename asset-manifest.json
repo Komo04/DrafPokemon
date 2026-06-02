@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DrafPokemon/static/css/main.1ef6a648.css",
-    "main.js": "/DrafPokemon/static/js/main.d0c3b3ca.js",
+    "main.js": "/DrafPokemon/static/js/main.072659a7.js",
     "static/js/453.2407b4b3.chunk.js": "/DrafPokemon/static/js/453.2407b4b3.chunk.js",
     "static/media/bg.png": "/DrafPokemon/static/media/bg.8b17faec3596f9efc050.png",
     "static/media/avatar.png": "/DrafPokemon/static/media/avatar.b8df5ea805fffce4a13d.png",
@@ -9,11 +9,11 @@
     "static/media/straighten.svg": "/DrafPokemon/static/media/straighten.2ca338567b7c059ee743.svg",
     "index.html": "/DrafPokemon/index.html",
     "main.1ef6a648.css.map": "/DrafPokemon/static/css/main.1ef6a648.css.map",
-    "main.d0c3b3ca.js.map": "/DrafPokemon/static/js/main.d0c3b3ca.js.map",
+    "main.072659a7.js.map": "/DrafPokemon/static/js/main.072659a7.js.map",
     "453.2407b4b3.chunk.js.map": "/DrafPokemon/static/js/453.2407b4b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef6a648.css",
-    "static/js/main.d0c3b3ca.js"
+    "static/js/main.072659a7.js"
   ]
 }
