@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/draf-pokemon/static/css/main.12382682.css",
+    "main.js": "/draf-pokemon/static/js/main.9f91ad87.js",
+    "static/js/453.2407b4b3.chunk.js": "/draf-pokemon/static/js/453.2407b4b3.chunk.js",
+    "static/media/bg.png": "/draf-pokemon/static/media/bg.8b17faec3596f9efc050.png",
+    "static/media/avatar.png": "/draf-pokemon/static/media/avatar.b8df5ea805fffce4a13d.png",
+    "static/media/weight.svg": "/draf-pokemon/static/media/weight.302580da8469a5f3d431.svg",
+    "static/media/straighten.svg": "/draf-pokemon/static/media/straighten.2ca338567b7c059ee743.svg",
+    "index.html": "/draf-pokemon/index.html",
+    "main.12382682.css.map": "/draf-pokemon/static/css/main.12382682.css.map",
+    "main.9f91ad87.js.map": "/draf-pokemon/static/js/main.9f91ad87.js.map",
+    "453.2407b4b3.chunk.js.map": "/draf-pokemon/static/js/453.2407b4b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12382682.css",
+    "static/js/main.9f91ad87.js"
+  ]
+}
